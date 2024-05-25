@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [https://dewyrag.github.io/Testimonials-grid-section/]
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-2VK-6b37e-]
+- Live Site URL: [https://dewyrag.github.io/stats-preview-card-component/]
 
 ## My process
 
